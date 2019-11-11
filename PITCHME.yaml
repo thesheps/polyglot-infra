@@ -1,0 +1,19 @@
+theme: template
+theme-background: ["#FFF"]
+theme-headline: ["Raleway", "#5289F7", "none"]
+theme-byline: ["Raleway", "#111111", "none"]
+theme-text: ["Ubuntu", "#1C1C1C", "none"]
+theme-links: ["#5289F7", "#5254F7"]
+theme-code: ["Source Code Pro"]
+theme-controls: ["#484848"]
+theme-margins: ["0", "15px"]
+highlight: tomorrow
+theme-override: assets/css/PITCHME.css
+logo: assets/img/logo.png
+logo-position: top-left
+layout: center
+footnote: "GitPitch - The Fastest Way From Idea To Presentation"
+published: true
+title: "GitPitch In 60 Seconds"
+description: "A short tutorial introducing the power and simplicity of GitPitch, the markdown presentation service on Git."
+thumbnail: https://gitpitch.com/gpimg/tutorial-thumb.png
